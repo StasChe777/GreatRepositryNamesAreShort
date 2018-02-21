@@ -1,0 +1,2 @@
+# GreatRepositryNamesAreShort
+Great repository names are short and memorable.
